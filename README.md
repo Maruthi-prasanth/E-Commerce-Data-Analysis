@@ -104,17 +104,23 @@ To run this project successfully, install the following dependencies:
 # Install Hadoop
 sudo apt update && sudo apt install hadoop
 
+---
+
 # Install Hive
 sudo apt install hive
 pip install jupyter pandas matplotlib seaborn
 ### Install Power BI Desktop
 📥 Download and install from: Power BI Download
 
+---
+
 ### How to Use
 
 - Run Hive Queries: Open Hive Queries.docx, execute queries in the Hive CLI.
 - Perform EDA: Open r.ipynb in Jupyter Notebook and run the Python scripts.
 - Visualize Data: Use PowerBi Visualization.docx as a guide to create dashboards in Power BI.
+
+---
 
 ### Contribution
 - Feel free to fork this repository, raise issues, or submit pull requests to improve the project.
